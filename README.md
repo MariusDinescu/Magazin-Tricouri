@@ -1,2 +1,2 @@
 Aplicatia prezinta un magazin de tricouri, unde fiecare magazin este caracterizat prin ID, descriere, culoare, marime si numarul de bucati. Se efectueaza la consola raportul rezultat dupa un anumit numar de tranzactii efectuat. Rapoartele sunt efectuate in ordine crescataore si in ordine alfabetica a descrierii. 
-Se efectueaza urmatoarele operatii in magaazin: sortarea tricourilor din container dupa pret , adaugarea si stergerea unui tricou din magazin, actualizand stocul.
+Se efectueaza urmatoarele operatii in magazin: sortarea tricourilor din container dupa pret , adaugarea si stergerea unui tricou din magazin, actualizand stocul.
